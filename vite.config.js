@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/odds-matcher/', // Change this to your GitHub repo name
+  base: '/OddsMatcher/', // Change this to your GitHub repo name
 })
